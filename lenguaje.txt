@@ -1,0 +1,13 @@
+## 🔤 Lenguajes de Programación Comunes
+
+A lo largo del tiempo, han surgido muchos lenguajes de programación, cada uno con sus usos y características. Algunos de los más populares son:
+
+| Lenguaje     | Usos principales                        |
+|--------------|------------------------------------------|
+| **Python**   | Ciencia de datos, automatización, web, IA |
+| **JavaScript** | Desarrollo web (frontend y backend)     |
+| **Java**     | Aplicaciones móviles (Android), empresariales |
+| **C++**      | Juegos, software de alto rendimiento     |
+| **C#**       | Videojuegos (Unity), apps Windows        |
+| **HTML/CSS** | Estructura y estilo de páginas web       |
+| **SQL**      | Bases de datos                          |
