@@ -1,0 +1,15 @@
+# 💻 ¿Qué es la Programación?
+
+La **programación** es el proceso de crear instrucciones que una computadora puede entender y ejecutar. Estas instrucciones se escriben en lenguajes como Python, JavaScript, o C++, y permiten resolver problemas, automatizar tareas y construir aplicaciones.
+
+## 🧠 ¿Por qué es importante?
+
+- Permite **automatizar procesos** repetitivos.
+- Ayuda a **resolver problemas de la vida real** mediante software.
+- Es una **herramienta creativa** para construir desde juegos hasta inteligencia artificial.
+
+## ✨ Aprender a programar
+
+Aprender programación es como aprender un nuevo idioma: al principio cuesta, pero con práctica se convierte en una poderosa forma de pensar y crear.
+
+> _"Programar no es solo decirle a una máquina qué hacer, es aprender a pensar de forma lógica y estructurada."_
